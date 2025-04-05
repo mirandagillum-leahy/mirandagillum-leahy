@@ -1,6 +1,6 @@
 # QA Dashboard – Oracle APEX
 
-🚀 [View Live Demo](https://youractualapexlink.com/ords/f?p=100:1)
+🚀 [View Live Demo](https://apex.oracle.com/pls/apex/r/mirandagillumleahy/qa-dashboard/home?session=6453132957656)
 
 📁 Built with: Oracle APEX, SQL, Interactive Reports
 

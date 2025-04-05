@@ -1,6 +1,7 @@
 # QA Dashboard – Oracle APEX
 
-🚀 [View Live Demo](https://your-public-apex-link.com/ords/f?p=100:1)  
+🚀 [View Live Demo](https://youractualapexlink.com/ords/f?p=100:1)
+
 📁 Built with: Oracle APEX, SQL, Interactive Reports
 
 ## 📋 Project Overview
